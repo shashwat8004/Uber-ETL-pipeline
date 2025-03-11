@@ -120,9 +120,6 @@ The results of the data analysis are visualized using Looker Studio, providing i
 ![Screenshot 2024-07-28 at 4 26 22 AM](https://github.com/user-attachments/assets/26ffd121-c4b7-439f-8ef9-2b155038d1b4)
 ![Screenshot 2024-07-28 at 4 26 37 AM](https://github.com/user-attachments/assets/2eb00bcb-1d1b-48a9-ace3-ca84fa1e2f2e)
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
 
 ## Conclusion
 
