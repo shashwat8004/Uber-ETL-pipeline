@@ -114,8 +114,6 @@ The analysis focuses on uncovering insights such as:
 
 The results of the data analysis are visualized using Looker Studio, providing interactive dashboards and reports that stakeholders can use to gain actionable insights. These visualizations help in understanding patterns and trends in the data, making it easier to make data-driven decisions.
 
-[Uber_Data_Analytics_by_Mihir.pdf](https://github.com/user-attachments/files/16401664/Uber_Data_Analytics_by_Mihir.pdf)
-
 ![Screenshot 2024-07-28 at 4 26 02 AM](https://github.com/user-attachments/assets/68379c6b-70c3-4332-9821-7beaa38d05a9)
 ![Screenshot 2024-07-28 at 4 26 22 AM](https://github.com/user-attachments/assets/26ffd121-c4b7-439f-8ef9-2b155038d1b4)
 ![Screenshot 2024-07-28 at 4 26 37 AM](https://github.com/user-attachments/assets/2eb00bcb-1d1b-48a9-ace3-ca84fa1e2f2e)
